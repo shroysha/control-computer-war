@@ -5,4 +5,4 @@
 A webapp to handle requests of control computer 
 
 ### Tags
-[Groovy, Application]
+[Groovy, Application, Spring Boot WAR]
